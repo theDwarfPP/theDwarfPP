@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @theDwarfPP
-- 👀 I’m interested in tourism
-- 🌱 I’m currently learning machine learninig
+- 👀 I’m interested in tourism data mining & ML & DL
+- 🌱 I’m currently learning machine learninig & deep learning
 - 💞️ I’m looking to collaborate on utilization of ML on tourism prediction
-- 📫 How to reach me ...
+- 📫 Reach me @ matt_wang@foxmail.com
 
 <!---
 theDwarfPP/theDwarfPP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
